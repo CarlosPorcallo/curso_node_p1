@@ -1,0 +1,15 @@
+{
+  "name": "practica_1_hola_mundo",
+  "version": "1.0.0",
+  "description": "Mi primer server NodeJS con HTTP",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Carlos Porcallo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
